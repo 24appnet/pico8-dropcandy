@@ -6,6 +6,10 @@ DROP CANDY: Pixel art made with PICO-8
 - [PICO\-8](https://www.lexaloffle.com/pico-8.php)
 - [DROP CANDY \- Halloween Puzzle on the App Store](https://itunes.apple.com/app/id564646020?mt=8)
 
+## Demo
+
+[PICO\-8 Cartridge](https://24appnet.github.io/pico8-dropcandy/)
+
 ## Screenshot
 
 ![](https://raw.githubusercontent.com/24appnet/pico8-dropcandy/master/screenshot.png)
