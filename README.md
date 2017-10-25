@@ -16,7 +16,7 @@ DROP CANDY: Pixel art made with PICO-8
 
 ## License
 
-[Creative Commons — Attribution\-NonCommercial 4\.0 International — CC BY\-NC 4\.0](https://creativecommons.org/licenses/by-nc/4.0/)
+MIT License: See `LISENCE.txt`.
 
 ## Author
 
