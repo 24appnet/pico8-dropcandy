@@ -14,6 +14,10 @@ DROP CANDY: Pixel art made with PICO-8
 
 ![](https://raw.githubusercontent.com/24appnet/pico8-dropcandy/master/screenshot.png)
 
+## License
+
+[Creative Commons — Attribution\-NonCommercial 4\.0 International — CC BY\-NC 4\.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ## Author
 
 ![24appnet](https://github.com/24appnet)
